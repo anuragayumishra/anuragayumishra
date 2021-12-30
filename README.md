@@ -8,7 +8,6 @@
 - ⚡ Fun fact: Am Moody
 
 
-
 ## My Statistics
 
 <br/>

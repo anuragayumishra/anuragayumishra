@@ -3,6 +3,7 @@
 - 🔭 I’m currently pursuing B.Tech in CSE
 - 🌱 I’m currently learning Open source and flutter
 - 💬 Ask me about yourself
+- ✨ Looking for any small open source project to start my journey
 - 📫 How to reach me: anuragayumishra@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Am Moody

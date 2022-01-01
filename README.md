@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently pursuing B.Tech in CSE
+- 🔭 I’m currently pursuing B.Tech in CSE Major
 - 🌱 I’m currently learning Open source and flutter
 - 💬 Ask me about yourself
 - ✨ Looking for any small open source project to start my journey

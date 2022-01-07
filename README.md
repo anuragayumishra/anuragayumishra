@@ -6,7 +6,7 @@
 - ✨ Looking for any small open source project to start my journey
 - 📫 How to reach me: anuragayumishra@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am Moody
+- ⚡ Fun fact: I'm Moody
 
 
 ## My Statistics

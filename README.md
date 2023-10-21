@@ -1,12 +1,13 @@
 ### Hi there 👋 Anurag Mishra here! 
 
-- 🔭 I’m currently pursuing B.Tech in CSE Major
-- 🌱 I'm currently learning Open source and flutter
+- 🔭 I’m currently working as Software Enginner
+- 🌱 I'm learning Open source and flutter
 - 💬 Ask me about yourself!
-- ✨ Looking for any small open source project to start my journey
+- ✨ Looking for a small open source project to kickstart my journey
 - 📫 How to reach me: anuragayumishra@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am Moody
+-   Let's Catch up in Bhopal
 
 
 ## My Statistics

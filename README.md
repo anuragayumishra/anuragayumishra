@@ -14,9 +14,9 @@
 
 <br/>
 <p align="left">
-  <a href="https://Ayu-mishra.devv/">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Ayu-mishra&show_icons=true&theme=gruvbox&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ayu-mishra&theme=gruvbox&hide_border=true" />
+  <a href="https://anuragayumishra.devv/">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=anuragayumishra&show_icons=true&theme=gruvbox&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=anuragayumishra&theme=gruvbox&hide_border=true" />
   </a>
 </p>
 <br>
